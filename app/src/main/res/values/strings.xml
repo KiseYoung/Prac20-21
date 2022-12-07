@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarGo</string>
+    <string name="go">"Start game"</string>
+</resources>
